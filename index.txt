@@ -9,3 +9,10 @@ index
 add new rows in test
 add new rows in test
 test
+
+index
+
+new words in document
+index index
+index
+documents
