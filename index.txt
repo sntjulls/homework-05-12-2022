@@ -16,3 +16,8 @@ new words in document
 index index
 index
 documents
+
+index
+
+index.txt
+new

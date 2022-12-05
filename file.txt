@@ -21,3 +21,8 @@ new changes
 file file
 file
 documents
+
+file
+
+file.txt
+new
